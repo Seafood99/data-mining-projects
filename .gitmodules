@@ -1,0 +1,6 @@
+[submodule "K-Pop-Song-Ranking-Classifier"]
+	path = K-Pop-Song-Ranking-Classifier
+	url = https://github.com/Seafood99/K-Pop-Song-Ranking-Classifier.git
+[submodule "pistachio-image-mining"]
+	path = pistachio-image-mining
+	url = https://github.com/Seafood99/pistachio-image-mining.git
